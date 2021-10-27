@@ -60,6 +60,9 @@ body {
 .menu-color{
   background-color: gray;
 }
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 2px solid black;
+}
 #nav-list {
   border: 1px solid;
 }
