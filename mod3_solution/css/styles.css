@@ -1,0 +1,77 @@
+body {
+  font-size: 16px;
+  font-family: calibri;
+}
+.row1 {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.navbar-brand {
+  margin-top: 10px;
+  padding-top: 10px;
+}
+.navbar-toggle {
+  background-color: transparent;
+  border: 1px solid black;
+}
+.header-nav {
+  background-color: gray;
+  border: 2px solid black;
+  border-radius: 0;
+}
+.navbar-brand h1 {
+  color: black;
+  font-style: 1.5em;
+  font-weight: bold;
+  margin-top: -5px;
+  line-height: .75;
+  margin-left: 15px;
+  font-family: calibri;
+}
+.navbar-nav {
+  margin: 0 -15px 
+}
+.menu {
+  margin: 15px;
+}
+.main-title {
+  font-weight: bold;
+  margin-top: -3px;
+}
+.menu-title {
+  font-weight: bold;
+}
+.menu-content {
+  margin-top: 40px;
+}
+.menu-item {
+  margin-bottom: 20px;
+  background: gray;
+  padding: 10px
+}
+.menu-item h4 {
+  font-weight: bold;
+}
+.menu-item p {
+  font-weight: 600;
+  font-size: .9em;
+  padding: 5px 10px;
+}
+.menu-color{
+  background-color: gray;
+}
+#nav-list {
+  border: 1px solid;
+}
+#nav-list li {
+  background: white;
+  border-bottom: 2px solid;
+}
+#nav-list li a {
+  color: black;
+  font-weight: 600;
+  line-height: 8px;
+}
+#header-nav { 
+  background-color: gray;
+}
